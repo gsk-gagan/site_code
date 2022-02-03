@@ -8,3 +8,4 @@ Change config.toml
 hugo server - To test the site
 git submodule add -b main git_repo_url public - To create submodul
 hugo -t theme_name - To generate stuff in the public directory
+hugo new post/post_name.md - To create new post

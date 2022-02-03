@@ -1,4 +1,48 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Placeholder for Everything Amazing'
+title = "Hey I'm Gagan!"
 theme = 'm10c'
+
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+
+[params]
+  author = "Gagandeep Singh Kaler"
+  description = "If you know, you know!"
+  avatar = '/avatar_gsk.png'
+  menu_item_separator = " - "
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/gsk-gagan"
+#  [[params.social]]
+#    icon = "twitter"
+#    name = "Twitter"
+#    url = "https://twitter.com/gskgagan"
+  [[params.social]]
+    icon = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/gagandeepsinghkaler/"
+  [[params.social]]
+    icon = "edit"
+    name = "Medium"
+    url = "https://medium.com/@gagandeep.singh.iitdelhi"
+  [[params.social]]
+    icon = "youtube"
+    name = "YouTube"
+    url = "https://www.youtube.com/channel/UCno6Ohi6y5F2di9sW9TuLOQ"
+  [[params.social]]
+    icon = "instagram"
+    name = "Instagram"
+    url = "https://instagram.com/gsk_gagan"
