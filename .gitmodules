@@ -1,0 +1,4 @@
+[submodule "gagansite/public"]
+	path = gagansite/public
+	url = https://github.com/gsk-gagan/site_content.git
+	branch = main
