@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Placeholder for Everything Amazing!"
-date: 2022-02-02T20:06:24-05:00
+title: "Welcome to My Site!"
+date: 2022-01-01T20:06:24-05:00
 draft: false
 weight: 1
 ---
