@@ -2,7 +2,7 @@
 title: "Welcome to My Site!"
 date: 2022-01-01T20:06:24-05:00
 draft: false
-weight: 1
+# weight: 1
 ---
 
 The idea of this site is to keep posting all the things that I do with minimal efforts. I believe I am simply going to keep a log of all the things I do an a regular basis.
